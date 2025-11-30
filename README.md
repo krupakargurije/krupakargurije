@@ -97,13 +97,6 @@ A marketplace for users to **exchange or trade products** seamlessly.
 
 ---
 
-### 🎓 DBMS Revision Material  
-A complete exam-focused repository covering **ER Diagrams, SQL, Normalization, Transactions, Indexing**, etc.
-
-👉 **Repo:** _Add link_
-
----
-
 ## 📈 GitHub Stats
 
 ![Krupakar's GitHub stats](https://github-readme-stats.vercel.app/api?username=krupakar-gurije&show_icons=true&theme=radical)
