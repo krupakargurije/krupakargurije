@@ -94,30 +94,30 @@ Currently pursuing my **B.Tech in Information Technology**, I enjoy building rea
 
 # 🚀 Featured Projects
 
-### 🔗 SkillExchange  
-A platform enabling users to **exchange skills**, learn from others, and collaborate through structured tutorials.
-
-- **Tech:** Flutter, Firebase  
-👉 **Repo:** https://github.com/krupakargurije/SkillExchange  
-👉 **Live Demo:** https://krupakargurije.github.io/SkillExchange
-
----
-
-### 📦 ExchangeMyProduct  
-A marketplace where users can **exchange or trade products** seamlessly with secure authentication.
-
-- **Tech:** Flutter, Firebase  
-👉 **Repo:** https://github.com/krupakargurije/ExchangeMyProduct  
-👉 **Live Demo:** https://krupakargurije.github.io/ExchangeMyProduct
-
----
-
 ### ⚔️ Code Arena  
-An interactive platform designed to help developers **practice coding challenges**, improve logic, track progress, and sharpen problem-solving skills.
+An interactive platform for developers to **practice coding challenges**, track progress, and improve problem-solving skills.
 
 - **Tech:** Java, Spring Boot, MySQL, HTML/CSS/JS  
-👉 **Repo:** https://github.com/krupakargurije/CodeArena  
-👉 **Live Demo:** https://krupakargurije.github.io/CodeArena
+👉 **Repo:** [Click Here](https://github.com/krupakargurije/CodeArena/)  
+👉 **Live Demo:** *Add Link Here*
+
+---
+
+### 🔗 Skill-Swap  
+A platform enabling users to **exchange skills**, collaborate, and learn from each other.
+
+- **Tech:** Flutter, Firebase  
+👉 **Repo:** [Click Here](https://github.com/krupakargurije/Skill-Swap/)  
+👉 **Live Demo:** *Add Link Here*
+
+---
+
+### 📦 ExchangeMyProducts  
+A marketplace where users can **exchange or trade products** seamlessly with authentication and smooth UI.
+
+- **Tech:** Flutter, Firebase  
+👉 **Repo:** [Click Here](https://github.com/krupakargurije/ExchangeMyProducts/)  
+👉 **Live Demo:** *Add Link Here*
 
 ---
 
