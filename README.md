@@ -137,13 +137,4 @@ A marketplace for users to **exchange or trade products** seamlessly.
 
 ###
 
----
-
-# 📬 Let's Connect
-- 💼 LinkedIn: _Add link_  
-- 🌐 Portfolio: _Add link_  
-- 📧 Email: **krupakargurije@gmail.com**
-
----
-
 ### _“Learning by building. Always ready to innovate and collaborate!”_
