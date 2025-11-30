@@ -95,24 +95,32 @@ Currently pursuing my **B.Tech in Information Technology**, I enjoy building rea
 # 🚀 Featured Projects
 
 ### 🔗 SkillExchange  
-A platform enabling users to **exchange skills** and learn from others.
+A platform enabling users to **exchange skills**, learn from others, and collaborate through structured tutorials.
 
 - **Tech:** Flutter, Firebase  
-👉 Repo: _Add link_  
-👉 Live Demo: _Add link_
+👉 **Repo:** https://github.com/krupakargurije/SkillExchange  
+👉 **Live Demo:** https://krupakargurije.github.io/SkillExchange
 
 ---
 
 ### 📦 ExchangeMyProduct  
-A marketplace for users to **exchange or trade products** seamlessly.
+A marketplace where users can **exchange or trade products** seamlessly with secure authentication.
 
 - **Tech:** Flutter, Firebase  
-👉 Repo: _Add link_  
-👉 Live Demo: _Add link_
+👉 **Repo:** https://github.com/krupakargurije/ExchangeMyProduct  
+👉 **Live Demo:** https://krupakargurije.github.io/ExchangeMyProduct
 
 ---
 
-###
+### ⚔️ Code Arena  
+An interactive platform designed to help developers **practice coding challenges**, improve logic, track progress, and sharpen problem-solving skills.
+
+- **Tech:** Java, Spring Boot, MySQL, HTML/CSS/JS  
+👉 **Repo:** https://github.com/krupakargurije/CodeArena  
+👉 **Live Demo:** https://krupakargurije.github.io/CodeArena
+
+---
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gurije-krupakar/" target="_blank">
