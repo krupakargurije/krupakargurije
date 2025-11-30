@@ -5,11 +5,9 @@
 ---
 
 ## 👨‍💻 About Me
-I’m a passionate and driven **Software Developer** with a strong foundation in **full-stack development**, backend engineering, and modern cloud-based technologies.
+I’m a passionate and driven **Software Developer** with strong skills in **Full-Stack Development**, backend engineering, and cloud-based technologies.
 
-Currently pursuing my **B.Tech in Information Technology**, I love building real-world applications using **Java, Spring Boot, Flutter, Firebase**, and exploring MERN stack fundamentals.
-
-I enjoy turning ideas into scalable applications and continuously exploring new tools, frameworks, and technologies.
+Currently pursuing my **B.Tech in Information Technology**, I love building real-world applications using **Java, Spring Boot, Flutter, Firebase**, and exploring modern web technologies.
 
 ---
 
@@ -17,47 +15,65 @@ I enjoy turning ideas into scalable applications and continuously exploring new 
 
 ### 🌐 Full-Stack Development
 - Strong knowledge in **Java, Spring Boot, REST APIs, Flutter, Dart, Angular**, and MERN fundamentals  
-- Experienced in designing and developing **scalable, user-centric applications**
-- Built multiple apps like **SkillExchange** and **ExchangeMyProduct**
+- Passionate about creating **scalable, user-centric applications**  
+- Built apps like **SkillExchange** and **ExchangeMyProduct**
 
 ### ☁️ Cloud & Backend Engineering
 - Hands-on experience with **Firebase, AWS, and GCP**
-- Familiar with microservice-based backend application development
+- Familiar with microservices and backend architecture
 
 ### 🎯 Current Goals [2025]
-- Master **Spring Boot**, **Microservices**, and **Cloud Deployment**
-- Build multiple full-stack projects strengthening backend depth
-- Improve **DSA skills** to target **MAANG SDE roles**
-- Grow my YouTube channel **CashCraft**, focused on earning-money tutorials
+- Master **Spring Boot, Microservices, Cloud Deployment**  
+- Build high-quality **full-stack projects**  
+- Strengthen **DSA** for **MAANG SDE roles**  
+- Grow YouTube channel **CashCraft**
 
 ### 🏆 Future Goals
-- Dive deeper into **DevOps & CI/CD**
-- Explore **AI + Backend integrations**
-- Contribute consistently to **open-source projects**
-- Become a highly skilled **Software Development Engineer (SDE)**
+- Explore **DevOps, CI/CD**
+- Integrate **AI + Backend**
+- Contribute to **Open Source**
+- Become a strong **Software Development Engineer**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### **Languages & Frameworks**
-- **Java, Spring Boot**
-- **Flutter, Dart**
-- **HTML, CSS, JavaScript**
-- **C, C++, Python**
-- **Angular**
-- **Node.js, Express.js (Basics)**
+### 🚀 Languages & Frameworks
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
+</p>
 
-### **Databases**
-- **MySQL**
-- **Firebase (Firestore & Realtime DB)**
-- **MongoDB (Basics)**
+---
 
-### **Tools & Deployment**
-- **VS Code, Android Studio, IntelliJ IDEA**
-- **Git, GitHub**
-- **Firebase Hosting**
-- **AWS & GCP (Familiar)**
+### 🗄️ Databases
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45"/>
+</p>
+
+---
+
+### 🛠️ Tools & Deployment
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45" height="45"/>
+</p>
 
 ---
 
@@ -67,14 +83,13 @@ I enjoy turning ideas into scalable applications and continuously exploring new 
 A platform enabling users to **exchange skills**, learn from others, and access guided tutorials.
 
 - **Tech:** Flutter, Firebase  
-- **Role:** Full-stack Developer  
 👉 **Repo:** _Add link_  
 👉 **Live Demo:** _Add link_
 
 ---
 
 ### 📦 ExchangeMyProduct
-A marketplace app where users can **exchange or trade products** seamlessly.
+A marketplace for users to **exchange or trade products** seamlessly.
 
 - **Tech:** Flutter, Firebase  
 👉 **Repo:** _Add link_  
@@ -82,15 +97,10 @@ A marketplace app where users can **exchange or trade products** seamlessly.
 
 ---
 
-### 🎓 DBMS Revision Material
-A complete exam-focused repository containing **ER Diagrams, SQL, Normalization, Transactions, Indexing**, and more.
+### 🎓 DBMS Revision Material  
+A complete exam-focused repository covering **ER Diagrams, SQL, Normalization, Transactions, Indexing**, etc.
 
 👉 **Repo:** _Add link_
-
----
-
-Want to explore more?  
-👉 **[View All My Repositories](#)**
 
 ---
 
@@ -103,6 +113,7 @@ Want to explore more?
 ---
 
 ## 📬 Let's Connect
+
 - 💼 **LinkedIn:** _Add link_  
 - 🌐 **Portfolio:** _Add link_  
 - 📧 **Email:** krupakargurije@gmail.com
