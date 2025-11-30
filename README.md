@@ -44,41 +44,51 @@ Currently pursuing my **B.Tech in Information Technology**, I enjoy building rea
 # 🛠️ Tech Stack
 
 ### 🚀 Languages & Frameworks
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java" width="50"/>
-  <img src="https://skillicons.dev/icons?i=spring" width="50"/>
-  <img src="https://skillicons.dev/icons?i=flutter" width="50"/>
-  <img src="https://skillicons.dev/icons?i=dart" width="50"/>
-  <img src="https://skillicons.dev/icons?i=angular" width="50"/>
-  <img src="https://skillicons.dev/icons?i=js" width="50"/>
-  <img src="https://skillicons.dev/icons?i=html" width="50"/>
-  <img src="https://skillicons.dev/icons?i=css" width="50"/>
-  <img src="https://skillicons.dev/icons?i=c" width="50"/>
-  <img src="https://skillicons.dev/icons?i=cpp" width="50"/>
-  <img src="https://skillicons.dev/icons?i=python" width="50"/>
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
 
 ---
 
 ### 🗄️ Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" width="50"/>
-  <img src="https://skillicons.dev/icons?i=firebase" width="50"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" width="50"/>
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+</div>
 
 ---
 
 ### 🔧 Tools & Deployment
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git" width="50"/>
-  <img src="https://skillicons.dev/icons?i=github" width="50"/>
-  <img src="https://skillicons.dev/icons?i=vscode" width="50"/>
-  <img src="https://skillicons.dev/icons?i=androidstudio" width="50"/>
-  <img src="https://skillicons.dev/icons?i=idea" width="50"/>
-  <img src="https://skillicons.dev/icons?i=gcp" width="50"/>
-  <img src="https://skillicons.dev/icons?i=aws" width="50"/>
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
 
 ---
 
@@ -102,19 +112,25 @@ A marketplace for users to **exchange or trade products** seamlessly.
 
 ---
 
-# 📈 GitHub Stats
+###
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krupakar-gurije&theme=radical" />
-</p>
+<img src="https://raw.githubusercontent.com/krupakargurije/krupakargurije/output/snake.svg" alt="Snake animation" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krupakar-gurije&theme=radical" />
-</p>
+###
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krupakar-gurije&layout=compact&theme=radical" />
-</p>
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=krupakargurije.krupakargurije&"  />
+</div>
+
+###
 
 ---
 
