@@ -1,3 +1,8 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+###
 # 👋 Hi there, I'm Krupakar Gurije
 
 🚀 **Software Developer | Full-Stack Developer | Java & Spring Boot Enthusiast | Tech Explorer**
