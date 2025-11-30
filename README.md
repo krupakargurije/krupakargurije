@@ -5,111 +5,118 @@
 ---
 
 ## 👨‍💻 About Me
-I’m a passionate and driven **Software Developer** with strong skills in **Full-Stack Development**, backend engineering, and cloud-based technologies.
+I’m a passionate and driven **Software Developer** skilled in **Full-Stack Development**, backend engineering, and cloud technologies.
 
-Currently pursuing my **B.Tech in Information Technology**, I love building real-world applications using **Java, Spring Boot, Flutter, Firebase**, and exploring modern web technologies.
+Currently pursuing my **B.Tech in Information Technology**, I enjoy building real-world applications using **Java, Spring Boot, Flutter, Firebase**, and modern web tools.
 
 ---
 
 ## 💻 Tech Journey & Goals
 
 ### 🌐 Full-Stack Development
-- Strong knowledge in **Java, Spring Boot, REST APIs, Flutter, Dart, Angular**, and MERN fundamentals  
-- Passionate about creating **scalable, user-centric applications**  
+- Strong knowledge in **Java, Spring Boot, REST APIs, Flutter, Dart, Angular**  
+- Passionate about creating **scalable, user-focused applications**  
 - Built apps like **SkillExchange** and **ExchangeMyProduct**
 
 ### ☁️ Cloud & Backend Engineering
-- Hands-on experience with **Firebase, AWS, and GCP**
-- Familiar with microservices and backend architecture
+- Experience with **Firebase, AWS, and GCP**  
+- Familiar with microservices, authentication & backend architecture  
 
 ### 🎯 Current Goals [2025]
-- Master **Spring Boot, Microservices, Cloud Deployment**  
-- Build high-quality **full-stack projects**  
-- Strengthen **DSA** for **MAANG SDE roles**  
-- Grow YouTube channel **CashCraft**
+- Master **Microservices, Cloud Deployment, and System Design**  
+- Build high-quality **full-stack applications**  
+- Improve **DSA skills** for **MAANG SDE roles**  
+- Grow my YouTube channel **CashCraft**
 
 ### 🏆 Future Goals
-- Explore **DevOps, CI/CD**
-- Integrate **AI + Backend**
-- Contribute to **Open Source**
-- Become a strong **Software Development Engineer**
+- Explore **DevOps, CI/CD, Docker, and Kubernetes**  
+- Integrate **AI + Backend**  
+- Contribute to **Open Source**  
+- Become a strong **Software Development Engineer (SDE)**  
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### 🚀 Languages & Frameworks
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=java" width="50"/>
+  <img src="https://skillicons.dev/icons?i=spring" width="50"/>
+  <img src="https://skillicons.dev/icons?i=flutter" width="50"/>
+  <img src="https://skillicons.dev/icons?i=dart" width="50"/>
+  <img src="https://skillicons.dev/icons?i=angular" width="50"/>
+  <img src="https://skillicons.dev/icons?i=js" width="50"/>
+  <img src="https://skillicons.dev/icons?i=html" width="50"/>
+  <img src="https://skillicons.dev/icons?i=css" width="50"/>
+  <img src="https://skillicons.dev/icons?i=c" width="50"/>
+  <img src="https://skillicons.dev/icons?i=cpp" width="50"/>
+  <img src="https://skillicons.dev/icons?i=python" width="50"/>
 </p>
 
 ---
 
 ### 🗄️ Databases
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="50"/>
+  <img src="https://skillicons.dev/icons?i=firebase" width="50"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="50"/>
 </p>
 
 ---
 
-### 🛠️ Tools & Deployment
+### 🔧 Tools & Deployment
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=git" width="50"/>
+  <img src="https://skillicons.dev/icons?i=github" width="50"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="50"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio" width="50"/>
+  <img src="https://skillicons.dev/icons?i=idea" width="50"/>
+  <img src="https://skillicons.dev/icons?i=gcp" width="50"/>
+  <img src="https://skillicons.dev/icons?i=aws" width="50"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🔗 SkillExchange
-A platform enabling users to **exchange skills**, learn from others, and access guided tutorials.
+### 🔗 SkillExchange  
+A platform enabling users to **exchange skills** and learn from others.
 
 - **Tech:** Flutter, Firebase  
-👉 **Repo:** _Add link_  
-👉 **Live Demo:** _Add link_
+👉 Repo: _Add link_  
+👉 Live Demo: _Add link_
 
 ---
 
-### 📦 ExchangeMyProduct
+### 📦 ExchangeMyProduct  
 A marketplace for users to **exchange or trade products** seamlessly.
 
 - **Tech:** Flutter, Firebase  
-👉 **Repo:** _Add link_  
-👉 **Live Demo:** _Add link_
+👉 Repo: _Add link_  
+👉 Live Demo: _Add link_
 
 ---
 
-## 📈 GitHub Stats
+# 📈 GitHub Stats
 
-![Krupakar's GitHub stats](https://github-readme-stats.vercel.app/api?username=krupakar-gurije&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krupakar-gurije&theme=radical" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krupakar-gurije&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krupakar-gurije&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krupakar-gurije&layout=compact&theme=radical" />
+</p>
 
 ---
 
-## 📬 Let's Connect
-
-- 💼 **LinkedIn:** _Add link_  
-- 🌐 **Portfolio:** _Add link_  
-- 📧 **Email:** krupakargurije@gmail.com
+# 📬 Let's Connect
+- 💼 LinkedIn: _Add link_  
+- 🌐 Portfolio: _Add link_  
+- 📧 Email: **krupakargurije@gmail.com**
 
 ---
 
