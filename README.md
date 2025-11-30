@@ -114,22 +114,25 @@ A marketplace for users to **exchange or trade products** seamlessly.
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/krupakargurije/krupakargurije/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  <a href="https://www.linkedin.com/in/krupakar-gurije" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+
+  <a href="mailto:krupakargurije@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+  </a>
+
+  <a href="https://t.me/YOUR_TELEGRAM_USERNAME" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo" />
+  </a>
 </div>
 
+
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=krupakargurije.krupakargurije&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=krupakargurije.krupakargurije&" />
 </div>
 
 ###
