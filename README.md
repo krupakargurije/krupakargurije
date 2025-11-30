@@ -114,9 +114,9 @@ A marketplace for users to **exchange or trade products** seamlessly.
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/krupakargurije/krupakargurije/main/assets/snake.svg" alt="Snake animation" />
-</div>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/krupakargurije/krupakargurije/output/snake.svg" alt="Snake animation" />
 
 ###
 
