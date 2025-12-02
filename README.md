@@ -99,7 +99,7 @@ An interactive platform for developers to **practice coding challenges**, track 
 
 - **Tech:** Java, Spring Boot, MySQL, HTML/CSS/JS  
 👉 **Repo:** [Click Here](https://github.com/krupakargurije/CodeArena/)  
-👉 **Live Demo:** *Add Link Here*
+👉 **Live Demo:** [Click Here](https://codearena-of33.onrender.com/) 
 
 ---
 
