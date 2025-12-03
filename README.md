@@ -74,7 +74,7 @@
         <tr>
            <td width="33%" align="center">
                 <h3>Code Arena</h3>
-                <p><i>A competitive coding and learning platform built using Flutter & Firebase.</i></p>
+                <p><i>A Java full-stack web platform that enables users to practice coding, participate in challenges, and improve problem-solving skills through interactive modules.</i></p>
                 <p>
                     <a href="https://github.com/krupakargurije/CodeArena" target="_blank">
                         <img src="https://img.shields.io/badge/Visit_Repo-1f8ef1?style=for-the-badge" alt="Visit Repo">
