@@ -76,7 +76,7 @@
                 <h3>Code Arena</h3>
                 <p><i>A competitive coding and learning platform built using Flutter & Firebase.</i></p>
                 <p>
-                    <a href="https://github.com/krupakar-gurije/CodeArena" target="_blank">
+                    <a href="https://github.com/krupakargurije/CodeArena" target="_blank">
                         <img src="https://img.shields.io/badge/Visit_Repo-1f8ef1?style=for-the-badge" alt="Visit Repo">
                     </a>
                     <a href="https://codearena-of33.onrender.com" target="_blank">
@@ -85,10 +85,10 @@
                 </p>
             </td>
             <td width="33%" align="center">
-                <h3>🤝 SkillExchange App</h3>
+                <h3>🤝 Skill Swap App</h3>
                 <p><i>A mobile app for exchanging skills within a community, built using Flutter & Firebase.</i></p>
                 <p>
-                    <a href="https://github.com/krupakar-gurije/SkillExchange" target="_blank">
+                    <a href="https://github.com/krupakargurije/Skill-Swap" target="_blank">
                         <img src="https://img.shields.io/badge/Visit_Repo-1f8ef1?style=for-the-badge" alt="Visit Repo">
                     </a>
                 </p>
@@ -97,7 +97,7 @@
                 <h3>🔄 ExchangeMyProduct</h3>
                 <p><i>A platform enabling users to exchange goods efficiently using modern UI and cloud backend.</i></p>
                 <p>
-                    <a href="https://github.com/krupakar-gurije/ExchangeMyProduct" target="_blank">
+                    <a href="https://github.com/krupakargurije/ExchangeMyProducts" target="_blank">
                         <img src="https://img.shields.io/badge/Visit_Repo-1f8ef1?style=for-the-badge" alt="Visit Repo">
                     </a>
                 </p>
@@ -118,10 +118,10 @@
 
 <h2 align="center">📬 Let's Connect:</h2>
 <p align="center">
-  <a href="https://github.com/krupakar-gurije" target="_blank">
+  <a href="https://github.com/krupakargurije" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/krupakar-gurije" target="_blank">
+  <a href="https://www.linkedin.com/in/gurije-krupakar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:krupakargurije@gmail.com" target="_blank">
