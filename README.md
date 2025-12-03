@@ -2,149 +2,139 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-###
-# 👋 Hi there, I'm Krupakar Gurije
-
-🚀 **Software Developer | Full-Stack Developer | Java & Spring Boot Enthusiast | Tech Explorer**
+<h1 align="center">Hi there 👋, I'm <span style="color:#00ADB5;">Krupakar Gurije</span></h1>
+<p align="center"><strong>🚀 Software Developer | Full-Stack & Mobile App Developer | Cloud & Backend Enthusiast</strong></p>
 
 ---
 
 ## 👨‍💻 About Me
-I’m a passionate and driven **Software Developer** skilled in **Full-Stack Development**, backend engineering, and cloud technologies.
-
-Currently pursuing my **B.Tech in Information Technology**, I enjoy building real-world applications using **Java, Spring Boot, Flutter, Firebase**, and modern web tools.
+<div class="small-bullet">
+  <ul>
+    <li>A passionate and driven <b><i>Developer</i></b> with experience in full‑stack and mobile app development.</li>
+    <li>Currently pursuing <b><i>B.Tech in Information Technology</i></b>.</li>
+    <li>Strong interest in building scalable applications, cloud-powered systems, and robust backend services.</li>
+    <li>Actively seeking full-time Software Developer / SDE roles at MAANG and top tech companies.</li>
+  </ul>
+</div>
 
 ---
 
-## 💻 Tech Journey & Goals
-
-### 🌐 Full-Stack Development
-- Strong knowledge in **Java, Spring Boot, REST APIs, Flutter, Dart, Angular**  
-- Passionate about creating **scalable, user-focused applications**  
-- Built apps like **SkillExchange** and **ExchangeMyProduct**
-
-### ☁️ Cloud & Backend Engineering
-- Experience with **Firebase, AWS, and GCP**  
-- Familiar with microservices, authentication & backend architecture  
+## 💻 Tech Journey and Goals
+### 🌐 Java Full Stack & Mobile Development
+<div class="small-bullet" align="justify">
+  <ul>
+    <li>Solid foundation in <code>HTML</code>, <code>CSS</code>, <code>JavaScript</code>.</li>
+    <li>Strong expertise in <code>Flutter</code>, <code>Dart</code>, and cross‑platform mobile development.</li>
+    <li>Experienced with backend development using <code>Firebase</code>, <code>REST APIs</code>, and <code>Node.js</code>.</li>
+    <li>Passionate about creating user‑centric apps with clean UI/UX and efficient performance.</li>
+  </ul>
+</div>
 
 ### 🎯 Current Goals [2025]
-- Master **Microservices, Cloud Deployment, and System Design**  
-- Build high-quality **full-stack applications**  
-- Improve **DSA skills** for **MAANG SDE roles**  
-- Grow my YouTube channel **CashCraft**
+<div class="small-bullet">
+  <ul>
+    <li>Mastering full‑stack development and building feature‑rich production apps.</li>
+    <li>Strengthening <code>Data Structures & Algorithms</code> for SDE interviews.</li>
+    <li>Cracking top‑tier SDE roles through structured practice and real‑world projects.</li>
+  </ul>
+</div>
 
 ### 🏆 Future Goals
-- Explore **DevOps, CI/CD, Docker, and Kubernetes**  
-- Integrate **AI + Backend**  
-- Contribute to **Open Source**  
-- Become a strong **Software Development Engineer (SDE)**  
-
----
-
-# 🛠️ Tech Stack
-
-### 🚀 Languages & Frameworks
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+<div class="small-bullet">
+  <ul>
+    <li>Advance into <code>Cloud‑Native</code> development and scalable architectures.</li>
+    <li>Integrate <code>AI</code> and <code>ML</code> models into mobile and web apps.</li>
+    <li>Build impactful projects that help people learn, earn, and grow.</li>
+  </ul>
 </div>
 
 ---
 
-### 🗄️ Databases
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-</div>
-
----
-
-### 🔧 Tools & Deployment
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
-
----
-
-# 🚀 Featured Projects
-
-### ⚔️ Code Arena  
-An interactive platform for developers to **practice coding challenges**, track progress, and improve problem-solving skills.
-
-- **Tech:** Java, Spring Boot, MySQL, HTML/CSS/JS  
-👉 **Repo:** [Click Here](https://github.com/krupakargurije/CodeArena/)  
-👉 **Live Demo:** [Click Here](https://codearena-of33.onrender.com/) 
-
----
-
-### 🔗 Skill-Swap  
-A platform enabling users to **exchange skills**, collaborate, and learn from each other.
-
-- **Tech:** Flutter, Firebase  
-👉 **Repo:** [Click Here](https://github.com/krupakargurije/Skill-Swap/)  
-👉 **Live Demo:** *Add Link Here*
-
----
-
-### 📦 ExchangeMyProducts  
-A marketplace where users can **exchange or trade products** seamlessly with authentication and smooth UI.
-
-- **Tech:** Flutter, Firebase  
-👉 **Repo:** [Click Here](https://github.com/krupakargurije/ExchangeMyProducts/)  
-👉 **Live Demo:** *Add Link Here*
-
----
-
-###
-
-
+<h2 align="center">🛠️ Tech Stack</h2>
 <div align="center">
-  <a href="https://www.linkedin.com/in/gurije-krupakar/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
+  <h4>Languages & Frameworks</h4>
+  <p>
+    <img src="https://skillicons.dev/icons?i=js,java,c,cpp,python,dart&size=100" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=flutter,angular,react,nodejs&size=48" />
+  </p>
 
+  <h4>Databases</h4>
+  <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql&size=100" />
+  <br>
+  <h4>Tools & Cloud</h4>
+  <img src="https://skillicons.dev/icons?i=git,github,aws,gcp,vscode,postman&size=48" />
+</div>
+
+---
+
+<h2 align="center"> 🚀 Featured Projects</h2>
+<div align="center">
+    <table width="100%">
+        <tr>
+           <td width="50%" align="center">
+                <h3>🤝 SkillExchange App</h3>
+                <p><i>A mobile app for exchanging skills within a community, built using Flutter & Firebase.</i></p>
+                <p>
+                    <a href="#" target="_blank">
+                        <img src="https://img.shields.io/badge/Visit_Repo-1f8ef1?style=for-the-badge" alt="Visit Repo">
+                    </a>
+                </p>
+            </td>
+            <td width="50%" align="center">
+                <h3>🔄 ExchangeMyProduct</h3>
+                <p><i>A platform enabling users to exchange goods efficiently using modern UI and cloud backend.</i></p>
+                <p>
+                    <a href="#" target="_blank">
+                        <img src="https://img.shields.io/badge/Visit_Repo-1f8ef1?style=for-the-badge" alt="Visit Repo">
+                    </a>
+                </p>
+            </td>  
+        </tr>
+    </table>
+</div>
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/krupakar-gurije?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/Explore_All_Repos-2196F3?style=for-the-badge&logo=github" alt="Explore All Repos">
+  </a>
+</p>
+
+---
+
+<h2 align="center">📈 GitHub Stats</h2>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=krupakar-gurije&show_icons=true&theme=radical" alt="GitHub Stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krupakar-gurije&layout=compact&theme=radical" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">📬 Let's Connect:</h2>
+<p align="center">
+  <a href="https://github.com/krupakar-gurije" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/krupakar-gurije" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="mailto:krupakargurije@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</p>
 
-  <a href="https://t.me/YOUR_TELEGRAM_USERNAME" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/✨ Always Building & Learning-blue?style=for-the-badge" />
+</p>
 
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=krupakargurije.krupakargurije&" />
-</div>
-
-###
-
-### _“Learning by building. Always ready to innovate and collaborate!”_
+---
+<p align="center"><i>"Code. Learn. Innovate. Repeat."</i></p>
+ning by building. Always ready to innovate and collaborate!”_
