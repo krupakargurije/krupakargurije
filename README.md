@@ -20,7 +20,7 @@
 ---
 
 ## 💻 Tech Journey and Goals
-### 🌐 Java Full Stack & Mobile Development
+### 🌐 Full Stack & Mobile Development
 <div class="small-bullet" align="justify">
   <ul>
     <li>Solid foundation in <code>HTML</code>, <code>CSS</code>, <code>JavaScript</code>.</li>
@@ -72,24 +72,36 @@
 <div align="center">
     <table width="100%">
         <tr>
-           <td width="50%" align="center">
+           <td width="33%" align="center">
+                <h3>Code Arena</h3>
+                <p><i>A competitive coding and learning platform built using Flutter & Firebase.</i></p>
+                <p>
+                    <a href="https://github.com/krupakar-gurije/CodeArena" target="_blank">
+                        <img src="https://img.shields.io/badge/Visit_Repo-1f8ef1?style=for-the-badge" alt="Visit Repo">
+                    </a>
+                    <a href="https://codearena-of33.onrender.com" target="_blank">
+                        <img src="https://img.shields.io/badge/Live_Demo-0077B5?style=for-the-badge" alt="Live Demo">
+                    </a>
+                </p>
+            </td>
+            <td width="33%" align="center">
                 <h3>🤝 SkillExchange App</h3>
                 <p><i>A mobile app for exchanging skills within a community, built using Flutter & Firebase.</i></p>
                 <p>
-                    <a href="#" target="_blank">
+                    <a href="https://github.com/krupakar-gurije/SkillExchange" target="_blank">
                         <img src="https://img.shields.io/badge/Visit_Repo-1f8ef1?style=for-the-badge" alt="Visit Repo">
                     </a>
                 </p>
             </td>
-            <td width="50%" align="center">
+            <td width="33%" align="center">
                 <h3>🔄 ExchangeMyProduct</h3>
                 <p><i>A platform enabling users to exchange goods efficiently using modern UI and cloud backend.</i></p>
                 <p>
-                    <a href="#" target="_blank">
+                    <a href="https://github.com/krupakar-gurije/ExchangeMyProduct" target="_blank">
                         <img src="https://img.shields.io/badge/Visit_Repo-1f8ef1?style=for-the-badge" alt="Visit Repo">
                     </a>
                 </p>
-            </td>  
+            </td>   
         </tr>
     </table>
 </div>
@@ -101,20 +113,6 @@
     <img src="https://img.shields.io/badge/Explore_All_Repos-2196F3?style=for-the-badge&logo=github" alt="Explore All Repos">
   </a>
 </p>
-
----
-
-<h2 align="center">📈 GitHub Stats</h2>
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=krupakar-gurije&show_icons=true&theme=radical" alt="GitHub Stats"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krupakar-gurije&layout=compact&theme=radical" alt="Top Languages"/>
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -137,4 +135,4 @@
 
 ---
 <p align="center"><i>"Code. Learn. Innovate. Repeat."</i></p>
-ning by building. Always ready to innovate and collaborate!”_
+
