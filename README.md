@@ -48,25 +48,31 @@
   </ul>
 </div>
 
----
-
 <h2 align="center">🛠️ Tech Stack</h2>
 <div align="center">
+
   <h4>Languages & Frameworks</h4>
   <p>
     <img src="https://skillicons.dev/icons?i=js,java,c,cpp,python,dart&size=100" />
     <br>
-    <img src="https://skillicons.dev/icons?i=flutter,angular,react,nodejs&size=48" />
+    <img src="https://skillicons.dev/icons?i=flutter,angular,react,nodejs,spring&size=48" />
   </p>
 
+  <h4>Backend (Java Full Stack)</h4>
+  <img src="https://skillicons.dev/icons?i=spring,java,maven,gradle&size=70" />
+
   <h4>Databases</h4>
-  <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql&size=100" />
+  <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgres&size=100" />
   <br>
-  <h4>Tools & Cloud</h4>
-  <img src="https://skillicons.dev/icons?i=git,github,aws,gcp,vscode,postman&size=48" />
+
+  <h4>DevOps & Cloud</h4>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp&size=70" />
+
+  <h4>Tools</h4>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,idea,eclipse&size=48" />
+
 </div>
 
----
 
 <h2 align="center"> 🚀 Featured Projects</h2>
 <div align="center">
