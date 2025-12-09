@@ -116,7 +116,7 @@
 
 <p align="center">
   <a href="https://github.com/krupakar-gurije?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/Explore_All_Repos-2196F3?style=for-the-badge&logo=github" alt="Explore All Repos">
+    <img src="https://github.com/krupakargurije?tab=repositories" alt="Explore All Repos">
   </a>
 </p>
 
