@@ -122,6 +122,21 @@
 
 ---
 
+<h2 align="center">📈 GitHub Stats</h2>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=krupakargurije&show_icons=true&theme=radical" alt="GitHub Stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krupakargurije&layout=compact&theme=radical" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+
 <h2 align="center">📬 Let's Connect:</h2>
 <p align="center">
   <a href="https://github.com/krupakargurije" target="_blank">
