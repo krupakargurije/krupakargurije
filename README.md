@@ -101,7 +101,8 @@
             </td>
           <td width="33%" align="center">
                 <h3>Planora</h3>
-                <p><i>A Java full-stack web platform that enables users to practice coding, participate in challenges, and improve problem-solving skills through interactive modules.</i></p>
+                <p><i>About
+A production-ready, full-stack web application that generates personalized trip plans based on user budgets. Built with Java 21, Spring Boot 3.x, PostgreSQL, and React with Tailwind CSS.</i></p>
                 <p>
                     <a href="https://github.com/krupakargurije/Planora" target="_blank">
                         <img src="https://img.shields.io/badge/Visit_Repo-1f8ef1?style=for-the-badge" alt="Visit Repo">
