@@ -112,11 +112,9 @@ A production-ready, full-stack web application that generates personalized trip 
                     </a>
                 </p>
             </td>
-          
         </tr>
     </table>
 </div>
-
 <br>
 
 <p align="center">
