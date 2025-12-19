@@ -90,15 +90,6 @@
                     </a>
                 </p>
             </td>
-            <td width="33%" align="center">
-                <h3>🤝 Skill Swap App</h3>
-                <p><i>A mobile app for exchanging skills within a community, built using Flutter & Firebase.</i></p>
-                <p>
-                    <a href="https://github.com/krupakargurije/Skill-Swap" target="_blank">
-                        <img src="https://img.shields.io/badge/Visit_Repo-1f8ef1?style=for-the-badge" alt="Visit Repo">
-                    </a>
-                </p>
-            </td>
           <td width="33%" align="center">
                 <h3>Planora</h3>
                 <p><i>About
@@ -112,6 +103,16 @@ A production-ready, full-stack web application that generates personalized trip 
                     </a>
                 </p>
           </td>
+            <td width="33%" align="center">
+                <h3>🤝 Skill Swap App</h3>
+                <p><i>A mobile app for exchanging skills within a community, built using Flutter & Firebase.</i></p>
+                <p>
+                    <a href="https://github.com/krupakargurije/Skill-Swap" target="_blank">
+                        <img src="https://img.shields.io/badge/Visit_Repo-1f8ef1?style=for-the-badge" alt="Visit Repo">
+                    </a>
+                </p>
+            </td>
+          
         </tr>
     </table>
 </div>
