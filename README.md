@@ -13,7 +13,7 @@
     <li>A passionate and driven <b><i>Developer</i></b> with experience in full‑stack and mobile app development.</li>
     <li>Currently pursuing <b><i>B.Tech in Information Technology</i></b>.</li>
     <li>Strong interest in building scalable applications, cloud-powered systems, and robust backend services.</li>
-    <li>Actively seeking full-time Software Developer / SDE roles at MAANG and top tech companies.</li>
+    <li>Seeking full-time roles and internships where I can apply my skills in a professional environment.</li>
   </ul>
 </div>
 
