@@ -20,22 +20,22 @@
 ---
 
 ## 💻 Tech Journey and Goals
-### 🌐 Full Stack & Mobile Development
+<h2>🌐 Full Stack & Mobile Development</h2>
 <div class="small-bullet" align="justify">
   <ul>
-    <li>Solid foundation in <code>HTML</code>, <code>CSS</code>, <code>JavaScript</code>.</li>
-    <li>Strong expertise in <code>Flutter</code>, <code>Dart</code>, and cross‑platform mobile development.</li>
-    <li>Experienced with backend development using <code>Firebase</code>, <code>REST APIs</code>, and <code>Node.js</code>.</li>
-    <li>Passionate about creating user‑centric apps with clean UI/UX and efficient performance.</li>
+    <li>Proficient in building responsive web applications using <code>HTML</code>, <code>CSS</code>, and <code>JavaScript</code>.</li>
+    <li>Experienced in developing scalable cross-platform mobile applications using <code>Flutter</code> and <code>Dart</code>.</li>
+    <li>Hands-on experience in backend development using <code>Firebase</code>, <code>Node.js</code>, and designing secure <code>RESTful APIs</code>.</li>
+    <li>Focused on building performance-optimized, user-centric applications with clean architecture and intuitive UI/UX.</li>
   </ul>
 </div>
 
-### 🎯 Current Goals [2025]
+<h2>🎯 Current Goals (2025)</h2>
 <div class="small-bullet">
   <ul>
-    <li>Mastering full‑stack development and building feature‑rich production apps.</li>
-    <li>Strengthening <code>Data Structures & Algorithms</code> for SDE interviews.</li>
-    <li>Cracking top‑tier SDE roles through structured practice and real‑world projects.</li>
+    <li>Advancing expertise in full-stack system design by building scalable, production-grade applications.</li>
+    <li>Strengthening problem-solving skills through consistent practice of <code>Data Structures</code> and <code>Algorithms</code>.</li>
+    <li>Preparing for Software Development Engineer (SDE) roles by combining strong DSA fundamentals with real-world project experience.</li>
   </ul>
 </div>
 
