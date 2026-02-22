@@ -19,23 +19,24 @@
 
 ---
 
-## 💻 Tech Journey and Goals
-<h2>🌐 Full Stack & Mobile Development</h2>
+### 🌐 Full Stack & Mobile Development
 <div class="small-bullet" align="justify">
   <ul>
-    <li>Proficient in building responsive web applications using <code>HTML</code>, <code>CSS</code>, and <code>JavaScript</code>.</li>
-    <li>Experienced in developing scalable cross-platform mobile applications using <code>Flutter</code> and <code>Dart</code>.</li>
-    <li>Hands-on experience in backend development using <code>Firebase</code>, <code>Node.js</code>, and designing secure <code>RESTful APIs</code>.</li>
-    <li>Focused on building performance-optimized, user-centric applications with clean architecture and intuitive UI/UX.</li>
+    <li>Solid foundation in <code>HTML</code>, <code>CSS</code>, <code>JavaScript</code>.</li>
+    <li>Strong expertise in <code>Flutter</code>, <code>Dart</code>, and cross-platform mobile development.</li>
+    <li>Experienced in backend development using <code>Java</code>, <code>Spring Boot</code>, <code>Firebase</code>, <code>Node.js</code>, and designing secure <code>RESTful APIs</code>.</li>
+    <li>Hands-on experience with <code>JWT Authentication</code>, <code>PostgreSQL</code>, <code>MySQL</code>, and real-time databases like <code>Firestore</code>.</li>
+    <li>Familiar with containerization and deployment using <code>Docker</code>.</li>
+    <li>Passionate about creating scalable, user-centric applications with clean UI/UX and efficient performance.</li>
   </ul>
 </div>
 
-<h2>🎯 Current Goals (2025)</h2>
+### 🎯 Current Goals [2026]
 <div class="small-bullet">
   <ul>
-    <li>Advancing expertise in full-stack system design by building scalable, production-grade applications.</li>
-    <li>Strengthening problem-solving skills through consistent practice of <code>Data Structures</code> and <code>Algorithms</code>.</li>
-    <li>Preparing for Software Development Engineer (SDE) roles by combining strong DSA fundamentals with real-world project experience.</li>
+    <li>Mastering full-stack development and backend system design using <code>Java</code> and <code>Spring Boot</code>.</li>
+    <li>Strengthening <code>Data Structures & Algorithms</code> for SDE interviews.</li>
+    <li>Cracking top-tier SDE roles through structured practice and real-world full-stack project development.</li>
   </ul>
 </div>
 
