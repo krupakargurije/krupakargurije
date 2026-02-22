@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi there 👋, I'm <span style="color:#00ADB5;">Krupakar Gurije</span></h1>
-<p align="center"><strong>🚀 Software Engineering Undergraduate | Full-Stack Systems (Java, Spring Boot, React) | DSA (LeetCode 1800+)</strong></p>
+<p align="center"><strong>🚀 Software Engineering Undergraduate | Full-Stack Systems (Java, Spring Boot, React) | DSA (LeetCode 1900+)</strong></p>
 
 ---
 
