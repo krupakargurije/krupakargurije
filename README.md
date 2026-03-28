@@ -3,51 +3,54 @@
 </div>
 
 <h1 align="center">Hi there 👋, I'm <span style="color:#00ADB5;">Krupakar Gurije</span></h1>
-<p align="center"><strong>🚀 Software Engineering Undergraduate | Full-Stack Systems (Java, Spring Boot, React) | DSA (LeetCode 1900+)</strong></p>
+<p align="center"><strong>🚀 Software Engineering Student | Full-Stack Systems (Java, Spring Boot, React) | DSA (LeetCode 1900+)</strong></p>
 
 ---
 
 ## 👨‍💻 About Me
 <div class="small-bullet">
   <ul>
-    <li>A passionate and driven <b><i>Developer</i></b> with experience in full‑stack and mobile app development.</li>
-    <li>Currently pursuing <b><i>B.Tech in Information Technology</i></b>.</li>
-    <li>Strong interest in building scalable applications, cloud-powered systems, and robust backend services.</li>
-    <li>Seeking full-time roles and internships where I can apply my skills in a professional environment.</li>
+    <li>Software Engineering student with strong foundations in <b><i>Data Structures, Algorithms, OOP, and DBMS</i></b>.</li>
+    <li>Experienced in building <b><i>scalable, real-time applications and REST APIs</i></b>.</li>
+    <li>Skilled in <b><i>Java, Spring Boot, React, Flutter, and PostgreSQL</i></b>.</li>
+    <li>Passionate about clean code, full-cycle development, and solving complex engineering problems.</li>
   </ul>
 </div>
 
 ---
 
-### 🌐 Full Stack & Mobile Development
+### 🌐 Full Stack Development
 <div class="small-bullet" align="justify">
   <ul>
-    <li>Solid foundation in <code>HTML</code>, <code>CSS</code>, <code>JavaScript</code>.</li>
-    <li>Strong expertise in <code>Flutter</code>, <code>Dart</code>, and cross-platform mobile development.</li>
-    <li>Experienced in backend development using <code>Java</code>, <code>Spring Boot</code>, <code>Firebase</code>, <code>Node.js</code>, and designing secure <code>RESTful APIs</code>.</li>
-    <li>Hands-on experience with <code>JWT Authentication</code>, <code>PostgreSQL</code>, <code>MySQL</code>, and real-time databases like <code>Firestore</code>.</li>
-    <li>Familiar with containerization and deployment using <code>Docker</code>.</li>
-    <li>Passionate about creating scalable, user-centric applications with clean UI/UX and efficient performance.</li>
+    <li>Strong experience in backend development using <code>Java</code>, <code>Spring Boot</code>, and designing secure <code>REST APIs</code>.</li>
+    <li>Built real-time systems using <code>WebSockets</code> and concurrent architectures.</li>
+    <li>Experience with <code>JWT Authentication</code> and role-based access control.</li>
+    <li>Frontend development using <code>React</code> and mobile apps with <code>Flutter</code>.</li>
+    <li>Worked with databases including <code>PostgreSQL</code>, <code>MySQL</code>, and <code>Firestore</code>.</li>
+    <li>Hands-on with <code>Docker</code>, deployment, and scalable system design.</li>
   </ul>
 </div>
 
 ### 🎯 Current Goals [2026]
 <div class="small-bullet">
   <ul>
-    <li>Mastering full-stack development and backend system design using <code>Java</code> and <code>Spring Boot</code>.</li>
-    <li>Strengthening <code>Data Structures & Algorithms</code> for SDE interviews.</li>
-    <li>Cracking top-tier SDE roles through structured practice and real-world full-stack project development.</li>
+    <li>Mastering backend system design and scalable architectures using <code>Java</code> and <code>Spring Boot</code>.</li>
+    <li>Strengthening <code>Data Structures & Algorithms</code> for top-tier SDE roles.</li>
+    <li>Building real-world full-stack systems with production-level quality.</li>
   </ul>
 </div>
 
-### 🏆 Future Goals
+### 🏆 Achievements
 <div class="small-bullet">
   <ul>
-    <li>Advance into <code>Cloud‑Native</code> development and scalable architectures.</li>
-    <li>Integrate <code>AI</code> and <code>ML</code> models into mobile and web apps.</li>
-    <li>Build impactful projects that help people learn, earn, and grow.</li>
+    <li><b>LeetCode Knight (Highest Rating: 1924)</b> – Top 4% globally.</li>
+    <li>Solved 700+ DSA problems across platforms.</li>
+    <li><b>CodeChef 2 Star Coder</b>.</li>
+    <li>Winner – Being Zero Coding Hackathon (150+ participants).</li>
   </ul>
 </div>
+
+---
 
 <h2 align="center">🛠️ Tech Stack</h2>
 <div align="center">
@@ -75,13 +78,15 @@
 </div>
 
 
+---
+
 <h2 align="center"> 🚀 Featured Projects</h2>
 <div align="center">
     <table width="100%">
         <tr>
            <td width="33%" align="center">
-                <h3>Code Arena</h3>
-                <p><i>A Java full-stack web platform that enables users to practice coding, participate in challenges, and improve problem-solving skills through interactive modules.</i></p>
+                <h3>CodeArena</h3>
+                <p><i>A real-time coding duel platform with concurrent sessions and automated evaluation.</i></p>
                 <p>
                     <a href="https://github.com/krupakargurije/CodeArena" target="_blank">
                         <img src="https://img.shields.io/badge/Visit_Repo-1f8ef1?style=for-the-badge" alt="Visit Repo">
@@ -93,8 +98,7 @@
             </td>
           <td width="33%" align="center">
                 <h3>Planora</h3>
-                <p><i>About
-A production-ready, full-stack web application that generates personalized trip plans based on user budgets. Built with Java 21, Spring Boot 3.x, PostgreSQL, and React with Tailwind CSS.</i></p>
+                <p><i>A full-stack system that generates personalized travel plans based on budget and preferences.</i></p>
                 <p>
                     <a href="https://github.com/krupakargurije/Planora" target="_blank">
                         <img src="https://img.shields.io/badge/Visit_Repo-1f8ef1?style=for-the-badge" alt="Visit Repo">
@@ -105,10 +109,10 @@ A production-ready, full-stack web application that generates personalized trip 
                 </p>
           </td>
             <td width="33%" align="center">
-                <h3>🤝 Skill Swap App</h3>
-                <p><i>A mobile app for exchanging skills within a community, built using Flutter & Firebase.</i></p>
+                <h3>Digital Brain</h3>
+                <p><i>An AI-based system for user recognition and memory-based interaction using ML and NLP.</i></p>
                 <p>
-                    <a href="https://github.com/krupakargurije/Skill-Swap" target="_blank">
+                    <a href="https://github.com/krupakargurije/Digital-Brain" target="_blank">
                         <img src="https://img.shields.io/badge/Visit_Repo-1f8ef1?style=for-the-badge" alt="Visit Repo">
                     </a>
                 </p>
@@ -119,7 +123,7 @@ A production-ready, full-stack web application that generates personalized trip 
 <br>
 
 <p align="center">
-  <a href="https://github.com/krupakar-gurije?tab=repositories" target="_blank">
+  <a href="https://github.com/krupakargurije?tab=repositories" target="_blank">
     <img src="https://github.com/krupakargurije?tab=repositories" alt="Explore All Repos">
   </a>
 </p>
@@ -140,7 +144,6 @@ A production-ready, full-stack web application that generates personalized trip 
 
 ---
 
-
 <h2 align="center">📬 Let's Connect:</h2>
 <p align="center">
   <a href="https://github.com/krupakargurije" target="_blank">
@@ -159,5 +162,5 @@ A production-ready, full-stack web application that generates personalized trip 
 </p>
 
 ---
-<p align="center"><i>"Code. Learn. Innovate. Repeat."</i></p>
 
+<p align="center"><i>"Code. Learn. Innovate. Repeat."</i></p>
