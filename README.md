@@ -3,33 +3,23 @@
 </div>
 
 <h1 align="center">Hi there 👋, I'm <span style="color:#00ADB5;">Krupakar Gurije</span></h1>
-<p align="center"><strong>🚀 Software Engineering Student | Full-Stack Systems (Java, Spring Boot, React) | DSA (LeetCode 1900+)</strong></p>
+<p align="center"><strong>🚀 Backend-Focused SDE Aspirant | Java • Spring Boot • Distributed Systems | LeetCode Knight (Top 4%, 700+ Solved)</strong></p>
 
 ---
 
 ## 👨‍💻 About Me
 <div class="small-bullet">
   <ul>
-    <li>Software Engineering student with strong foundations in <b><i>Data Structures, Algorithms, OOP, and DBMS</i></b>.</li>
-    <li>Experienced in building <b><i>scalable, real-time applications and REST APIs</i></b>.</li>
-    <li>Skilled in <b><i>Java, Spring Boot, React, Flutter, and PostgreSQL</i></b>.</li>
-    <li>Passionate about clean code, full-cycle development, and solving complex engineering problems.</li>
+    <li>🎯 Final-year B.Tech (IT) student engineering <b><i>real-time, distributed backend systems</i></b> — not just CRUD apps.</li>
+    <li>🏗️ Built and shipped <b>CodeArena</b>, a live competitive coding platform handling <b>10K+ concurrent WebSocket connections at sub-100ms p99 latency</b> — architected, load-tested, and deployed solo.</li>
+    <li>🧠 <b>LeetCode Knight (1924, Top 4% globally)</b> with <b>700+ problems solved</b> — strong in arrays, trees, graphs, and dynamic programming.</li>
+    <li>⚙️ Deep focus on <b><i>Java, Spring Boot, REST APIs, WebSockets, JWT/RBAC, and PostgreSQL query optimization</i></b> under production-like load (k6 stress testing, async processing, caching).</li>
+    <li>📈 Obsessed with measurable engineering impact: 40% faster submission turnaround, 25% lower API latency, zero-downtime CI/CD rollouts.</li>
+    <li>🎯 Actively targeting <b>SDE/SWE roles at MAANG-level companies</b> — currently in process with Amazon.</li>
   </ul>
 </div>
 
 ---
-
-### 🌐 Full Stack Development
-<div class="small-bullet" align="justify">
-  <ul>
-    <li>Strong experience in backend development using <code>Java</code>, <code>Spring Boot</code>, and designing secure <code>REST APIs</code>.</li>
-    <li>Built real-time systems using <code>WebSockets</code> and concurrent architectures.</li>
-    <li>Experience with <code>JWT Authentication</code> and role-based access control.</li>
-    <li>Frontend development using <code>React</code> and mobile apps with <code>Flutter</code>.</li>
-    <li>Worked with databases including <code>PostgreSQL</code>, <code>MySQL</code>, and <code>Firestore</code>.</li>
-    <li>Hands-on with <code>Docker</code>, deployment, and scalable system design.</li>
-  </ul>
-</div>
 
 ### 🎯 Current Goals [2026]
 <div class="small-bullet">
@@ -45,7 +35,7 @@
   <ul>
     <li><b>LeetCode Knight (Highest Rating: 1924)</b> – Top 4% globally.</li>
     <li>Solved 700+ DSA problems across platforms.</li>
-    <li><b>CodeChef 2 Star Coder</b>.</li>
+    <li><b>CodeChef 3 Star Coder</b>.</li>
     <li>Winner – Being Zero Coding Hackathon (150+ participants).</li>
   </ul>
 </div>
@@ -55,22 +45,28 @@
 <h2 align="center">🛠️ Tech Stack</h2>
 <div align="center">
 
-  <h4>Languages & Frameworks</h4>
+  <h4>⚡ Core Stack (Production Experience)</h4>
   <p>
-    <img src="https://skillicons.dev/icons?i=js,java,c,cpp,python,dart&size=100" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=flutter,angular,react,nodejs,spring&size=48" />
+    <img src="https://skillicons.dev/icons?i=java,spring,react,postgres,docker,aws&size=70" />
   </p>
+  <p><i>Java • Spring Boot • REST APIs • WebSockets (STOMP) • JWT & RBAC • React.js • PostgreSQL • Docker • AWS EC2 • CI/CD</i></p>
 
-  <h4>Backend (Java Full Stack)</h4>
-  <img src="https://skillicons.dev/icons?i=spring,java,maven,gradle&size=70" />
+  <h4>Languages</h4>
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,js,dart&size=55" />
+
+  <h4>Backend & System Design</h4>
+  <img src="https://skillicons.dev/icons?i=spring,java,maven,gradle&size=55" />
+  <p><i>Microservices • Multithreading • Design Patterns • OOP & SOLID • Low-Latency Real-Time Systems</i></p>
+
+  <h4>Frontend</h4>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,flutter,angular&size=55" />
 
   <h4>Databases</h4>
-  <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgres&size=100" />
-  <br>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,mongodb&size=55" />
+  <p><i>Schema Design • Indexing • Query Optimization</i></p>
 
   <h4>DevOps & Cloud</h4>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp&size=70" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,kubernetes,gcp&size=55" />
 
   <h4>Tools</h4>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,idea,eclipse&size=48" />
